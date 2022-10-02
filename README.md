@@ -5,3 +5,7 @@
 # Практическая работа 2
 
  - [Очет по ПР 2](/practice/Otchet_Pr№2_Ovchinniova.pdf).
+
+# Практическая работа 3
+
+ - [Очет по ПР 3](/practice/Otchet_pr3_Ovchinnikova.pdf).
