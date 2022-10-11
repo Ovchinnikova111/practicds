@@ -14,6 +14,6 @@
 
  - [Очет по ПР 4 Конвергенция](/practice/Ovchinnikova_pr4.pdf)
  
- - [Очет по ПР 4 ZeroMQ](/practice/Ovchinnikova_pr4_ZeroMQ.pdf)
+ - [Очет по ПР 4 ZeroMQ](/practice/Ovchinnikova_pr4_conv.pdf)
  
  
