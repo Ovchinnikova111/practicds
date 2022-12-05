@@ -18,8 +18,8 @@
  
  # Практическая работа HADOOP
 
- - [Очет по ПР Установка Hadoop + самостоятельное задание](/practice/Ovchinnikova_pr4_conv.pdf)
+ - [Очет по ПР Установка Hadoop + самостоятельное задание](/practice/Ovchinnikova_pr5.pdf)
  
- - [Очет по ПР Индивидуальное задание](/practice/Ovchinnikova_pr4_ZeroMQ.pdf)
+ - [Очет по ПР Индивидуальное задание](/practice/Ovchinnikova_pr6.pdf)
  
 
